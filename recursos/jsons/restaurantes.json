@@ -1,0 +1,79 @@
+{
+  "restaurantes": [
+    {
+      "id": 1,
+      "nome": "Cantina da Praça",
+      "frete": 5.0,
+      "itens": [
+        {
+          "nome": "Prato feito",
+          "descricao": "Arroz, feijão, frango grelhado e salada.",
+          "preco": 22.0,
+          "imagem": "recursos/imagens/prato_feito.jpg"
+        },
+        {
+          "nome": "Lasanha",
+          "descricao": "Massa com molho de tomate, carne e queijo.",
+          "preco": 28.5,
+          "imagem": "recursos/imagens/lasanha.jpg"
+        },
+        {
+          "nome": "Suco de acerola",
+          "descricao": "Suco natural de acerola, copo de 300 ml.",
+          "preco": 7.0,
+          "imagem": "recursos/imagens/suco_acerola.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Forno da Vila",
+      "frete": 7.5,
+      "itens": [
+        {
+          "nome": "Pizza de muçarela",
+          "descricao": "Molho de tomate, muçarela e orégano. Oito fatias.",
+          "preco": 42.0,
+          "imagem": "recursos/imagens/pizza_mucarela.jpg"
+        },
+        {
+          "nome": "Pizza de calabresa",
+          "descricao": "Molho de tomate, calabresa e cebola. Oito fatias.",
+          "preco": 46.0,
+          "imagem": "recursos/imagens/pizza_calabresa.jpg"
+        },
+        {
+          "nome": "Pão de alho",
+          "descricao": "Pão assado com manteiga de alho.",
+          "preco": 9.0,
+          "imagem": "recursos/imagens/pao_alho.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Sabor do Acarajé",
+      "frete": 4.0,
+      "itens": [
+        {
+          "nome": "Acarajé completo",
+          "descricao": "Bolinho de feijão-fradinho com vatapá, caruru e camarão.",
+          "preco": 18.0,
+          "imagem": "recursos/imagens/acaraje.jpg"
+        },
+        {
+          "nome": "Abará",
+          "descricao": "Massa de feijão-fradinho cozida na folha de bananeira com vatapá.",
+          "preco": 15.0,
+          "imagem": "recursos/imagens/abara.jpg"
+        },
+        {
+          "nome": "Cocada",
+          "descricao": "Doce de coco preparado artesanalmente.",
+          "preco": 5.5,
+          "imagem": "recursos/imagens/cocada.jpg"
+        }
+      ]
+    }
+  ]
+}
